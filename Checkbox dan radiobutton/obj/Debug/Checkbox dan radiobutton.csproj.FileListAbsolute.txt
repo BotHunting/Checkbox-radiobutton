@@ -1,0 +1,18 @@
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Checkbox dan radiobutton\Checkbox dan radiobutton\bin\Debug\Checkbox dan radiobutton.exe.config
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Checkbox dan radiobutton\Checkbox dan radiobutton\bin\Debug\Checkbox dan radiobutton.exe
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Checkbox dan radiobutton\Checkbox dan radiobutton\bin\Debug\Checkbox dan radiobutton.pdb
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Checkbox dan radiobutton\Checkbox dan radiobutton\obj\Debug\Checkbox dan radiobutton.csprojResolveAssemblyReference.cache
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Checkbox dan radiobutton\Checkbox dan radiobutton\obj\Debug\Checkbox_dan_radiobutton.Form1.resources
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Checkbox dan radiobutton\Checkbox dan radiobutton\obj\Debug\Checkbox_dan_radiobutton.Properties.Resources.resources
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Checkbox dan radiobutton\Checkbox dan radiobutton\obj\Debug\Checkbox dan radiobutton.csproj.GenerateResource.Cache
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Checkbox dan radiobutton\Checkbox dan radiobutton\obj\Debug\Checkbox dan radiobutton.exe
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Checkbox dan radiobutton\Checkbox dan radiobutton\obj\Debug\Checkbox dan radiobutton.pdb
+E:\.shortcut-targets-by-id\1mY2uzoGOv2-3oLMjmZsLTrdbbRAgGECU\Pelajaran\S1 Sistem Informasi\Semester 4\Pemrograman Lanjut\Quiz\Checkbox dan radiobutton\Checkbox dan radiobutton\bin\Debug\Checkbox dan radiobutton.exe.config
+E:\.shortcut-targets-by-id\1mY2uzoGOv2-3oLMjmZsLTrdbbRAgGECU\Pelajaran\S1 Sistem Informasi\Semester 4\Pemrograman Lanjut\Quiz\Checkbox dan radiobutton\Checkbox dan radiobutton\obj\Debug\Checkbox dan radiobutton.exe
+E:\.shortcut-targets-by-id\1mY2uzoGOv2-3oLMjmZsLTrdbbRAgGECU\Pelajaran\S1 Sistem Informasi\Semester 4\Pemrograman Lanjut\Quiz\Checkbox dan radiobutton\Checkbox dan radiobutton\obj\Debug\Checkbox dan radiobutton.pdb
+E:\.shortcut-targets-by-id\1mY2uzoGOv2-3oLMjmZsLTrdbbRAgGECU\Pelajaran\S1 Sistem Informasi\Semester 4\Pemrograman Lanjut\Quiz\Checkbox dan radiobutton\Checkbox dan radiobutton\bin\Debug\Checkbox dan radiobutton.exe
+E:\.shortcut-targets-by-id\1mY2uzoGOv2-3oLMjmZsLTrdbbRAgGECU\Pelajaran\S1 Sistem Informasi\Semester 4\Pemrograman Lanjut\Quiz\Checkbox dan radiobutton\Checkbox dan radiobutton\bin\Debug\Checkbox dan radiobutton.pdb
+E:\.shortcut-targets-by-id\1mY2uzoGOv2-3oLMjmZsLTrdbbRAgGECU\Pelajaran\S1 Sistem Informasi\Semester 4\Pemrograman Lanjut\Quiz\Checkbox dan radiobutton\Checkbox dan radiobutton\obj\Debug\Checkbox dan radiobutton.csprojResolveAssemblyReference.cache
+E:\.shortcut-targets-by-id\1mY2uzoGOv2-3oLMjmZsLTrdbbRAgGECU\Pelajaran\S1 Sistem Informasi\Semester 4\Pemrograman Lanjut\Quiz\Checkbox dan radiobutton\Checkbox dan radiobutton\obj\Debug\Checkbox_dan_radiobutton.Form1.resources
+E:\.shortcut-targets-by-id\1mY2uzoGOv2-3oLMjmZsLTrdbbRAgGECU\Pelajaran\S1 Sistem Informasi\Semester 4\Pemrograman Lanjut\Quiz\Checkbox dan radiobutton\Checkbox dan radiobutton\obj\Debug\Checkbox_dan_radiobutton.Properties.Resources.resources
+E:\.shortcut-targets-by-id\1mY2uzoGOv2-3oLMjmZsLTrdbbRAgGECU\Pelajaran\S1 Sistem Informasi\Semester 4\Pemrograman Lanjut\Quiz\Checkbox dan radiobutton\Checkbox dan radiobutton\obj\Debug\Checkbox dan radiobutton.csproj.GenerateResource.Cache
